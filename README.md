@@ -1,0 +1,2 @@
+# NSEditor
+New Smart Editor
